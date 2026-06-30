@@ -61,9 +61,6 @@ flutter run
 android/app/
 - Enable Authentication, Firestore, and Storage
 
-## 📸 Screenshots
-
-Add screenshots here
 
 ## 👨‍💻 Developer
 
