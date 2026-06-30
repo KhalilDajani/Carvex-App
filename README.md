@@ -42,7 +42,7 @@ lib/
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/carvex.git
+git clone https://github.com/KhalilDajani/Carvex-App.git
 
 2. Go to project directory:
 cd carvex
@@ -84,5 +84,7 @@ This project is for educational and portfolio purposes.
 - Push notifications
 
 ## 📬 Contact
+kmaldajani22@cit.just.edu.jo
++962 78 009 1709
 
 Feel free to reach out for collaboration or questions.
