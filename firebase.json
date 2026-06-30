@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "carvex-78a83",
+          "appId": "1:503910090406:android:9c81c35f8b904775319667",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "carvex-78a83",
+          "configurations": {
+            "android": "1:503910090406:android:9c81c35f8b904775319667",
+            "ios": "1:503910090406:ios:1f13a0356927012a319667",
+            "macos": "1:503910090406:ios:1f13a0356927012a319667",
+            "web": "1:503910090406:web:d8625581e56a8c5b319667",
+            "windows": "1:503910090406:web:03ef93fb8f1eb695319667"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default"
+    }
+  ]
+}
